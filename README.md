@@ -1,6 +1,6 @@
 # Seattle AirBnB Data Analysis
 
-Estimated Revenue metrics [1](https://towardsdatascience.com/airbnb-in-seattle-data-analysis-8222207579d7) is introduced and used to answer the following questions:
+Estimated Revenue metrics [[1](https://towardsdatascience.com/airbnb-in-seattle-data-analysis-8222207579d7)] is introduced and used to answer the following questions:
 - What is the Estimated Property revenue in different Seattle neighbourhoods?
 - What are the busiest months for renters?
 
@@ -36,4 +36,4 @@ Also we created and trained a simple Linear Regression model which can be used f
  
 **References:**
 
-[1]: [https://towardsdatascience.com/airbnb-in-seattle-data-analysis-8222207579d7]
+1: [https://towardsdatascience.com/airbnb-in-seattle-data-analysis-8222207579d7](https://towardsdatascience.com/airbnb-in-seattle-data-analysis-8222207579d7)
