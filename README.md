@@ -16,7 +16,7 @@ Also one-hot encoded information about property location is included as explanat
 - sklearn, v0.20.0
 
 **airbnb_data_analysis.ipnb notebook**
-Main notebook. Data are loaded, and preprocessed.
+- Main notebook. Data are loaded, and preprocessed.
 New data (Estimated Property Revenue) are derived from *listings* and *reviews* data.
 These data are used to get a answers on stated questions and create a predicive model
 
