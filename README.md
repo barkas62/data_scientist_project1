@@ -16,13 +16,14 @@ Also one-hot encoded information about property location is included as explanat
 - sklearn, v0.20.0
 
 **airbnb_data_analysis.ipnb notebook**
-- Main notebook. Data are loaded, and preprocessed.
+
+Main notebook. Data are loaded, and preprocessed.
 New data (Estimated Property Revenue) are derived from *listings* and *reviews* data.
 These data are used to get a answers on stated questions and create a predicive model
 
 **Seattle AirBnB data**
-Can be downloaded from [here](https://www.kaggle.com/airbnb/seattle).
 
+Can be downloaded from [here](https://www.kaggle.com/airbnb/seattle).
 Unzipped data files (*listings.csv and reviews.csv*) must be placed in */data* subfolder.
 
 **Summary of Resilts**
@@ -34,4 +35,5 @@ Estimated Revenue metric is really useful for getting some important insight fro
 Also we created and trained a simple Linear Regression model which can be used for helping the prospective buyers to estimate the rental price of their property, depending on several property features (number of bedrooms, bathrooms, beds; how many peoples can be accomodated) and on the neighbourhood, where the property is located.
  
 **References:**
+
 [1]: [https://towardsdatascience.com/airbnb-in-seattle-data-analysis-8222207579d7]
