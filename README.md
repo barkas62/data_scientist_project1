@@ -21,7 +21,8 @@ New data (Estimated Property Revenue) are derived from *listings* and *reviews* 
 These data are used to get a answers on stated questions and create a predicive model
 
 **Seattle AirBnB data**
-Can be downloaded from [here](https://www.kaggle.com/airbnb/seattle)
+Can be downloaded from [here](https://www.kaggle.com/airbnb/seattle).
+
 Unzipped data files (*listings.csv and reviews.csv*) must be placed in */data* subfolder.
 
 **Summary of Resilts**
