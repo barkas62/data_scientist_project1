@@ -4,6 +4,8 @@ Estimated Revenue metrics [[1](https://towardsdatascience.com/airbnb-in-seattle-
 - What is the Estimated Property revenue in different Seattle neighbourhoods?
 - What are the busiest months for renters?
 
+Medium Blog post link: [https://medium.com/@barkas62/using-airbnb-data-to-help-prospective-hosts-b80b0cd74375](https://medium.com/@barkas62/using-airbnb-data-to-help-prospective-hosts-b80b0cd74375) 
+
 Linear Regression is used to model the rental property price dependency on several objective characteristics:
 number of bedrooms and bathrooms, number of beds and how many peoples can be accomodated.
 Also one-hot encoded information about property location is included as explanatory variables. 
