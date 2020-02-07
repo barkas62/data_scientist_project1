@@ -11,9 +11,9 @@ number of bedrooms and bathrooms, number of beds and how many peoples can be acc
 One-hot encoded information about property location is included as explanatory variables. 
 
 ### Installation
-`git clone git@github.com:barkas62/data_scientist_project1.git`
+`$ git clone git@github.com:barkas62/data_scientist_project1.git`
 
-`cd data_scientist_project1`
+`$ cd data_scientist_project1`
 
 ### Required libraries 
 - pandas, v0.23.4
@@ -31,6 +31,11 @@ These data are used to get a answers on stated questions and create a predicive 
 
 Can be downloaded from [here](https://www.kaggle.com/airbnb/seattle).
 Unzipped data files (*listings.csv and reviews.csv*) must be placed in */data* subfolder.
+
+### Usage
+`$ jupyter notebook`
+
+Jupyter environment will be running in browser. Click on `airbnb_data_analysis.ipynb`
 
 ### Summary of Resilts
 
